@@ -1,3 +1,118 @@
-/*
- * Estilos de tu proyecto
- */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat');
+
+body {
+    font-family: Lato;
+    color: rgb(255, 255, 255);
+}
+
+ li{
+     display: inline-block;
+     text-align: left;
+     
+ }
+
+
+ ul{
+     
+     
+     
+ }
+
+ a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: left;
+     
+ }
+
+ nav{
+    display: flex;
+    background-color:  #2c3e50;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    
+    font-weight: 700;
+    font-family: Montserrat;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    
+    justify-content: center;
+    align-items: center ;
+    
+    
+ }
+ 
+.flex-container01{
+    background-color:  #18bc9c;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.flex-container02{
+    width: 950px;
+    height:480px;
+    position: relative;
+    display: flex;
+   
+    justify-content: center;
+    align-items: center ;
+    align-content: center;
+    margin: auto;
+    flex-flow: row wrap; /* <‘flex-direction’> || <‘flex-wrap’>*/
+    /* flex-wrap: wrap;*/
+    /*flex-direction: row;*/
+
+}
+
+img{
+   
+    height: 180px;
+    width: 180px;
+}
+
+.images{
+    
+    height: 190px;
+    width: 250px;
+    padding-right: 15px;
+    padding-left: 15px;
+   padding-top: 15px;
+   padding-bottom: 15px; 
+}
+
+.flex-container02 img{
+    height: 190px;
+    width: 250px;
+}
+
+.about{
+    background-color: #18bc9c;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    
+}
+
+.uppercase {
+    text-transform: uppercase;
+  }
+
+h1{
+
+}
