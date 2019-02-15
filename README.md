@@ -5,7 +5,7 @@
 * **Unidad:** _Layout da Web com HTML & CSS_
 
 ***
-# Este trabalho foi desenvolvido através do desafio proposto pelos professores da Laboratoria.
+# Este trabalho foi desenvolvido a partir do desafio proposto pelos professores da Laboratoria.
 
 # Fluxo de trabalho
 Foi disponibilizado as alunas um repositório com todos os recursos necessários. Foi realizado fork e em seguida clonado. 
