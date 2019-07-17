@@ -20,5 +20,4 @@ O resultado obtido foi:
 
 Fontes: Montserrat e Lato.
 
-
 Paleta de cores: #2c3e50, #18bc9c e #212529.
